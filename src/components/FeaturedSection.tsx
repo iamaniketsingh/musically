@@ -9,7 +9,7 @@ export default function FeaturedSection() {
   console.log(music_data.courses);
   const courses = music_data.courses.filter((course) => course.isFeatured);
   return (
-    <div className="py-12 mt-10 bg-gray-900">
+    <div className="py-12 mt-10 p-5 bg-gray-900">
       <div>
         <div className="text-center">
           <h2 className="text-base text-teal-600 font-semibold tracking-wide uppercase">

@@ -13,7 +13,7 @@ export function Musically() {
       />
 
       <div>
-        <h1 className="text-9xl font-bold text-center bg-clip-text text-transparent bg-gradient-to-b from-neutral-50 to-neutral-400 bg-opacity-50 mt-[12rem] lg:text-9xl">
+        <h1 className="text-[4rem] md:text-9xl lg:text-9xl font-bold text-center bg-clip-text text-transparent bg-gradient-to-b from-neutral-50 to-neutral-400 bg-opacity-50 mt-[12rem] l">
           Musically
         </h1>
       </div>
@@ -40,7 +40,7 @@ export function Musically() {
       </div>
 
       <div className="mt-[-6.5rem] md:mt-[-14rem] lg:mt-[-14rem]">
-        <h1 className="text-7xl font-bold text-center bg-clip-text text-transparent bg-gradient-to-b from-neutral-50 to-neutral-400 bg-opacity-50">
+        <h1 className="text-[2rem] capitalize  md:text-7xl font-bold text-center bg-clip-text text-transparent bg-gradient-to-b from-neutral-50 to-neutral-400 bg-opacity-50">
           <br /> Master the art of music
         </h1>
       </div>
