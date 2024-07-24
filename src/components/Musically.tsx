@@ -8,8 +8,8 @@ export function Musically() {
   return (
     <div className="relative w-full mt-[-5rem] bg-transparent flex flex-col items-center justify-center overflow-hidden rounded-md">
       <Spotlight
-        className="-top-78 lg:left-[7rem] md:left-60 md:-top-20"
-        fill="yellow"
+        className="top-4 z-10 left-8 lg:left-[7rem] md:left-60 md:-top-20"
+        fill="gold"
       />
 
       <div>
